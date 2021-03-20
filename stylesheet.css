@@ -19,13 +19,14 @@ a {
   max-width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
+  font-color: #FA8072;
 }
 
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://www.wallpapertip.com/wmimgs/110-1102845_omen-wallpaper-valorant-4k.jpg);
   background-size: cover;
-  color: #FFFFFF;
+  font-color: #FFFFFF;
   text-align: center;
 }
 
