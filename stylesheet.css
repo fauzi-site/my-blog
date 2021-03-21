@@ -134,6 +134,22 @@ header {
   text-align: center;
 }
 
+[dir] .PrimaryButton-module--label-text--23ce5 {
+   padding: 1.9rem 3rem;
+   background-color: transparent;
+   cursor: pointer;
+}
+
+.PrimaryButton-module--label-text--23ce5 {
+  position: relative;
+  display: block;
+  z-index: 1;
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+}
+
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
