@@ -175,7 +175,7 @@ header {
 }
 
 .message:active {
-  position: relative;
+  position: right;
   top: 7px;
   box-shadow: none;
 }
