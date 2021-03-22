@@ -167,6 +167,20 @@ header {
   color: #b3aeb5;
 }
 
+.message {
+  padding: 15px 40px;
+  background-color: #FF0000;
+  cursor: pointer;
+  box-shadow: 0 7px #800000;
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+
 .heading h3 {
   font-weight: normal;
 }
